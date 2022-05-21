@@ -1,0 +1,6 @@
+- name: articles
+  url: /articles
+  title: Essays I have written over the last years
+- name: about
+  url: /about
+  title: Learn about me

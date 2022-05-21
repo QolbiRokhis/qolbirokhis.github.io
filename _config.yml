@@ -1,0 +1,22 @@
+# site
+url: https://qolbirokhis.github.io
+author: QolbiRokhis
+title: "Qolbi Rokhis" # the name of your site, e.g. ACME Corp.
+
+# markdown
+markdown: kramdown
+highlighter: rouge
+
+# paginator
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 2
+paginate_path: "/page:num"
+
+# google analytics
+google_analytics_id: "Google Analytics ID"
+
+# other configs
+exclude: ["CNAME", "README.md"]
