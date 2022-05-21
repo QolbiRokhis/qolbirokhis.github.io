@@ -1,3 +1,6 @@
+- name: home
+  url: /
+  title: Home
 - name: articles
   url: /articles
   title: Essays I have written over the last years
